@@ -1,5 +1,7 @@
 # DATA271 FINAL - Project Title: Exploratory Data Analysis on US Call for Service Data
 
+### David
+
 ## Project Description
 The goal of this project will be an extension to my project for ASA's Data Challenge which only tackled LA County, and its purpose is to evaluate the calls for service data across the nation provided publicly by their respective organizations over the span of time to identify trends, in order to offer alternative policing models and identify overallocations of resources to certain district areas. Paired with general census-collected information and weather reports, and similar information, this project will aim to identify the trends and use them to determine common stresses and causes to influx of these requests for emergency service.
 
