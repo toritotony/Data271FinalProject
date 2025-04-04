@@ -1,22 +1,24 @@
-# DATA271 FINAL - Project Title: Exploratory Data Analysis on US Call for Service Data
+# DATA271 FINAL - Exploratory Data Analysis on Weather and Animal Migration Patterns in California
 
 ## Project Description
-The goal of this project will be an extension to my project for ASA's Data Challenge which only tackled LA County, and its purpose is to evaluate the calls for service data across the nation provided publicly by their respective organizations over the span of time to identify trends, in order to offer alternative policing models and identify overallocations of resources to certain district areas. Paired with general census-collected information and weather reports, and similar information, this project will aim to identify the trends and use them to determine common stresses and causes to influx of these requests for emergency service.
+This project seeks to explore and evaluate the relationship between atmospheric and weather conditions and the migratory behavior of animal species in California. By integrating meteorological data and ecological records, the goal is to identify environmental triggers or correlations that influence migratory timing, direction, and population distribution. The project will utilize data sources from NOAA, Movebank, and Daymet to characterize climatic and atmospheric trends, and pair this with wildlife tracking and observational data to analyze how animal movement patterns change in response to these variables. Through this, we aim to better understand environmental stressors and inform sustainable conservation strategies.
 
 ## Datasets
-1. [PD's Call for Service Data](https://humboldtgov.org/2161/Daily-CFS-Report) <-- example dataset source for HSO
-2. [CALMAC Weather Files](https://www.calmac.org/weather.asp)
-3. [Census Bureau Data](https://data.census.gov) 
+1. [NOAA National Centers for Environmental Information](https://www.ncei.noaa.gov/) – for historical and real-time climate data
+2. [NASA's Daymet](https://daymet.ornl.gov) – for daily weather and climatology variables
+3. [Movebank](https://www.movebank.org/) – open-source animal movement data across species
 
 ## Related Resources
-- [Medium article about alternative policing models for non-violent calls](https://londonbreed.medium.com/alternatives-to-police-for-responding-to-non-violent-911-calls-44c7d40ad9b1)
-- [CNA article on alernative 911 dispatch models](https://www.cna.org/quick-looks/2022/alternative-911-dispatch-models)
-- [Police Chief Magazine article about data-driven policing methods](https://www.policechiefmagazine.org/turning-point-policing-methods/)
+- [NOAA article on climate impacts on wildlife](https://www.noaa.gov/education/resource-collections/climate/climate-impacts-on-ecosystems)
+- [California Climate Adaptation Strategy](https://climateresilience.ca.gov/)
+- [Scientific American article on shifting animal migration due to climate change](https://www.scientificamerican.com/article/climate-change-is-driving-animal-migration/)
 
 ## EDA Questions
-- How can we use a data-driven strategy to reduce the physical presence of officers, lower labor and resource costs, and shorten dispatch times when dealing with nonviolent calls?
-- How can we combine insights from these calls—including their characteristics and any reported alleged crimes—with general census and weather data to better allocate resources and determine the necessary equipment for specific districts or situations, thereby minimizing unnecessary costs and overly aggressive responses?
-- Can we identify a clear correlation between the environmental factors of cities and counties and the nature or frequency of calls for service, enabling us to predict these calls with reasonable accuracy?
+- What weather patterns or atmospheric variables (e.g., temperature, precipitation, wind patterns) correlate most strongly with migration timing or intensity for species in California?
+- Are there identifiable climate thresholds or seasonal shifts that serve as predictors for migratory events?
+- Can we spatially and temporally map migration patterns alongside climate variables to detect meaningful trends or changes over time?
+- How might ongoing climate variability affect the predictability and consistency of migration behaviors in the near future?
+- Are any migratory shifts better explained by predator-prey relationships than by weather factors, and can predator presence be used as a confounding control in determining causality?
 
-## Members Involed
+## Members Involved
 - Anthony Wolfe
