@@ -9,9 +9,9 @@ This project seeks to explore and evaluate the relationship between atmospheric 
 3. [Movebank](https://www.movebank.org/) – open-source animal movement data across species
 
 ## Related Resources
-- [NOAA article on climate impacts on wildlife](https://www.noaa.gov/education/resource-collections/climate/climate-impacts-on-ecosystems)
-- [California Climate Adaptation Strategy](https://climateresilience.ca.gov/)
-- [Scientific American article on shifting animal migration due to climate change](https://www.scientificamerican.com/article/climate-change-is-driving-animal-migration/)
+- [NOAA article on climate change impacting marine life](https://www.fisheries.noaa.gov/feature-story/climate-change-escalates-threats-species-spotlight)
+- [World Economic Forum article on extreme weather affecting animal migration](https://www.weforum.org/stories/2023/10/climate-crisis-impacting-animal-migration/)
+- [National Environmental Education Foundation article on climate change and the affect on habitats](https://www.scientificamerican.com/article/climate-change-is-driving-animal-migration/)
 
 ## EDA Questions
 - What weather patterns or atmospheric variables (e.g., temperature, precipitation, wind patterns) correlate most strongly with migration timing or intensity for species in California?
