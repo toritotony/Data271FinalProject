@@ -5,8 +5,8 @@ This project seeks to explore and evaluate the relationship between atmospheric 
 
 ## Datasets
 1. [NOAA National Centers for Environmental Information](https://www.ncei.noaa.gov/) – for historical and real-time climate data
-2. [NASA's Daymet](https://daymet.ornl.gov) – for daily weather and climatology variables
-3. [Movebank](https://www.movebank.org/) – open-source animal movement data across species
+2. [NASA's Daymet](https://daymet.ornl.gov) – MIGHT CHANGE THIS OUT FOR ANOTHER DATASET SINCE RELEVANT DATA IS SIMILAR TO NOAA
+3. [Movebank](https://www.movebank.org/) – open-source animal movement data across species 
 
 ## Related Resources
 - [National Environmental Education Foundation article on climate impact on animal habitats](https://www.neefusa.org/story/climate-change/how-climate-change-changing-animal-habits)
