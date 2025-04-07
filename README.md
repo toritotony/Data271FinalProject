@@ -1,11 +1,11 @@
 # DATA271 FINAL - Exploratory Data Analysis on Weather and Animal Migration Patterns in California
 
 ## Project Description
-This project seeks to explore and evaluate the relationship between atmospheric and weather conditions and the migratory behavior of animal species in California. By integrating meteorological data and ecological records, the goal is to identify environmental triggers or correlations that influence migratory timing, direction, and population distribution. The project will utilize data sources from NOAA, Movebank, and Daymet to characterize climatic and atmospheric trends, and pair this with wildlife tracking and observational data to analyze how animal movement patterns change in response to these variables. Through this, we aim to better understand environmental stressors and inform sustainable conservation strategies.
+This project seeks to explore and evaluate the relationship between atmospheric and weather conditions and the migratory behavior of animal species in California. By integrating meteorological data and ecological records, the goal is to identify environmental triggers or correlations that influence migratory timing, direction, and population distribution. The project will utilize data sources from NOAA, Movebank, and CDFW to characterize climatic and atmospheric trends, and pair this with wildlife tracking and observational data to analyze how animal movement patterns change in response to these variables. Through this, we aim to better understand environmental stressors and inform sustainable conservation strategies.
 
 ## Datasets
 1. [NOAA National Centers for Environmental Information](https://www.ncei.noaa.gov/) – for historical and real-time climate data
-2. [NASA's Daymet](https://daymet.ornl.gov) – MIGHT CHANGE THIS OUT FOR ANOTHER DATASET SINCE RELEVANT DATA IS SIMILAR TO NOAA
+2. [California Department Fish and Wildlife](https://data-cdfw.opendata.arcgis.com/search?q=barn%20owl&tags=species) – public CDFW spatial data, and discover related applications to discover species-specific details
 3. [Movebank](https://www.movebank.org/) – open-source animal movement data across species 
 
 ## Related Resources
