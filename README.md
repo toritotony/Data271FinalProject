@@ -22,7 +22,3 @@ This project seeks to explore and evaluate the relationship between atmospheric 
 
 ## Members Involved
 - Anthony Wolfe
-
-```python
-
-```
