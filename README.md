@@ -12,13 +12,19 @@ This project seeks to explore and evaluate the relationship between atmospheric 
 - [National Environmental Education Foundation article on climate impact on animal habitats](https://www.neefusa.org/story/climate-change/how-climate-change-changing-animal-habits)
 - [Biomed Central article on climate impact on animal migration with scientific resources](https://climatechangeresponses.biomedcentral.com/articles/10.1186/s40665-015-0013-9)
 - [UC Santa Cruz news article about climate shifts and animal relocation](https://www.scientificamerican.com/article/climate-change-is-driving-animal-migration/)
+- [University of Maryland Division of Research publication: “Global-scale Animal Ecology Reveals Behavioral Changes in Response to Climate Change”](https://research.umd.edu/articles/global-scale-animal-ecology-reveals-behavioral-changes-response-climate-change)
+- [National Institutes of Health article: “Crossing regimes of temperature dependence in animal movement”](https://pubmed.ncbi.nlm.nih.gov/26854767/)
 
 ## EDA Questions
-- What weather patterns or atmospheric variables (e.g., temperature, precipitation, wind patterns) correlate most strongly with migration timing or intensity for species in California?
-- Are there identifiable climate thresholds or seasonal shifts that serve as predictors for migratory events?
-- Can we spatially and temporally map migration patterns alongside climate variables to detect meaningful trends or changes over time?
-- How might ongoing climate variability affect the predictability and consistency of migration behaviors in the near future?
-- Are any migratory shifts better explained by predator-prey relationships than by weather factors, and can predator presence be used as a confounding control in determining causality?
+- Which atmospheric variables (temperature, precipitation, wind) correlate most strongly with migration timing or intensity?
+- Are there climate thresholds or seasonal shifts that predict migratory events?
+- Can spatial–temporal mapping reveal significant trends over time?
+- How might continued climate variability affect future migration predictability?
+- Do predator–prey relationships better explain some shifts than weather alone?
 
 ## Members Involved
 - Anthony Wolfe
+
+```python
+
+```
