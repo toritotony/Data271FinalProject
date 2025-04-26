@@ -32,7 +32,3 @@ Some considerations to keep in mind are the Koppen climate zones and variation o
 
 ## Members Involved
 - Anthony Wolfe
-
-```python
-
-```
