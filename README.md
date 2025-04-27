@@ -1,9 +1,9 @@
-# DATA271 FINAL - EDA for Weather and Swainson Hawk Migration Patterns in California
+# DATA271 FINAL - EDA for Weather and Swainson Hawk Migration Patterns in California & Nevada
 
 ## Project Description
-This project seeks to explore and evaluate the relationship between atmospheric and weather conditions and the migratory behavior of Swainson Hawks in California. By integrating meteorological data and ecological records, the goal is to identify environmental triggers or correlations that influence migratory timing, direction, and population distribution. The project will utilize data sources from NOAA, Movebank, and GBIF to characterize climatic and atmospheric trends, and pair this with wildlife tracking and observational data to analyze how animal movement patterns change in response to these variables. Additionally, we'll be collecting data on their primary food source, Grasshoppers, in order to account for confounding factors and predator-prey relationships. Through this, we aim to better understand environmental stressors and inform sustainable conservation strategies.
+This project seeks to explore and evaluate the relationship between atmospheric and weather conditions and the migratory behavior of Swainson Hawks in California and Nevada. By integrating meteorological data and ecological records, the goal is to identify environmental triggers or correlations that influence migratory timing, direction, and population distribution. The project will utilize data sources from NOAA, Movebank, and GBIF to characterize climatic and atmospheric trends, and pair this with wildlife tracking and observational data to analyze how animal movement patterns change in response to these variables. Additionally, we'll be collecting data on their primary food source, Grasshoppers, in order to account for confounding factors and predator-prey relationships. Through this, we aim to better understand environmental stressors and inform sustainable conservation strategies.
 
-Some considerations to keep in mind are the Koppen climate zones and variation of elevation across California, which are associated with diffrent types of habitats and are influenced by elevation. Consequently, I'll be relying on biodiversity reports on California's climate zones, and will likely collect geographical data to provide context when we view the movements of these animals. Since it will provide insight to their elevation and any obstructions that might isolate their movements, this will help interpret the tracking data more accurately. This will not only address accurate elevation but nearby residential areas that could disrupt the flight patterns of these hawks.
+Some considerations to keep in mind are the Koppen climate zones and variation of elevation across California, which are associated with diffrent types of habitats and are influenced by elevation. Consequently, I'll be relying on biodiversity reports on more Western state climate zones, and will likely collect geographical data to provide context when we view the movements of these animals. Since it will provide insight to their elevation and any obstructions that might isolate their movements, this will help interpret the tracking data more accurately. This will not only address accurate elevation but nearby residential areas that could disrupt the flight patterns of these hawks.
 
 ## Datasets
 1. [National Oceanic and Atmospheric Administration's National Center of Environmental Information](https://www.ncei.noaa.gov/) – national agency for daily weather forecasts, severe storm warnings, and climate monitoring to fisheries management, coastal restoration and supporting marine commerce
@@ -32,3 +32,7 @@ Some considerations to keep in mind are the Koppen climate zones and variation o
 
 ## Members Involved
 - Anthony Wolfe
+
+```python
+
+```
